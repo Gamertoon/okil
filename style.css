@@ -320,10 +320,6 @@ text-decoration: none;
   line-height: 2;
 }
 
-.margin-left{
-  margin-left: 10%;
-}
-
 @media (min-width: 1440px) and (max-width: 900px){
 
 body{
