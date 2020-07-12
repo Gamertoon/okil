@@ -126,6 +126,12 @@ margin-left: auto;
     grid-auto-rows: minmax(85px , auto);
     grid-gap: 4px;
   }
+      
+ .margin-left{
+    margin-right: auto;
+  } 
+      
+      
 }
 
 /****** Media Query For iPad Pro Landscape Mode*******/
@@ -151,6 +157,10 @@ margin-left: auto;
     grid-gap: 4px;
   }
 
+.margin-left{
+    margin-right: auto;
+  }   
+      
   .right{
     margin-left: auto;
   }
